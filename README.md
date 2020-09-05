@@ -139,4 +139,8 @@ testing to account for different scenarios possible. The increased test coverage
 By attempting this project, we have realized the significance of minimizing coupling and maximizing cohesion by making appropriate design choices for our model. Furthermore, we realized that these two factors play an important role in the software development cycle because they ensure deliverables can be isolated and tested before merging into the code base.
 In conclusion, Object Oriented Design Principles allowed us to minimize coupling and maximize cohesion within our classes and model, thus reducing the amount of code and potential errors
 
+# Latest Fixes:
+1. Fixed SLC, DC tims location related bugs. 
+2. Added first layer for graphics.
+
 
